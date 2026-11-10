@@ -15,7 +15,7 @@ def load_data():
 
 sales, forecast, results, stores = load_data()
 
-st.title("Retail Analytics & AI-Powered Sales Forecasting")
+st.title("Retail Analytics & Sales Forecasting")
 
 # ---------- Sidebar filters ----------
 st.sidebar.header("Filters")
